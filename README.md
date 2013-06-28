@@ -5,19 +5,19 @@ This is a Visual Interface that is trying to solve a journalistic problem - assi
 
 Ideas:
 
-Gesture Recognition
-Computer Graphics 
-Usability Testing
+- Gesture Recognition
+- Computer Graphics 
+- Usability Testing
 
 Tools:
 
-Python + OpenCV 
-Google API
-Terminal 
+- Python + OpenCV 
+- Google API
+- Terminal 
 
 Teams:
 
-Shujian Bu
-Pucong Han
+- Shujian Bu
+- Pucong Han
 
 ![Alt text](program.png "Program Screenshot")
